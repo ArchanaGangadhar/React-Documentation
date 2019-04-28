@@ -1,4 +1,4 @@
 # React Basic Concepts
 
 
-#### [Back to Read Me Doc](/README.MD)
+#### [Back to Read Me Doc](README.md)
