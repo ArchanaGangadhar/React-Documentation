@@ -16,6 +16,9 @@ ESLint is the linting tool used by React. It is used to capture language related
 #### Prettier
 Prettier helps in formatting our code.
 
+#### Minification
+It is the process of minimising code without affecting how the resource is processed by the browser. It is achieved by ermoving dead code, comments, and shortening the names of variables and functions.
+
 #### React can be gradually adopted(https://reactjs.org/docs/add-react-to-a-website.html)
 You can add React to just a little parts of your HTML page where some interactivity is required, or as a small part into Angular applications.
 
