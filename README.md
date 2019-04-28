@@ -2,6 +2,8 @@
 
 #### Click here for best explaination on React Concepts(https://reactjs.org/docs/thinking-in-react.html)
 
+#### React Basic Concepts Notes(/REACT-BASIC-CONCEPTS.MD)
+
 #### Webpack
 Webpack is the module bundler for the React Applications
 
